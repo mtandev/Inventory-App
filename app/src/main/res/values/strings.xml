@@ -1,0 +1,53 @@
+<resources>
+    
+    <string name="app_name">Inventory App</string>
+    
+    <string name="add_item">Add New Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="inventory_view">Inventory View</string>
+
+    <!-- required main activity-->
+    <string name="name_required">Item Name Required</string>
+    <string name="price_required">Item Price Required</string>
+    <string name="quantity_required">Item Quantity Required</string>
+    <string name="supplier_required">Supplier Name Required</string>
+    <string name="phone_required">Supplier Number Required</string>
+
+    <string name="delete_all">Delete All Items</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_success">Item deleted.</string>
+    <string name="delete_failed">Item not deleted.</string>
+
+    <string name="save_failed">Error saving item.</string>
+    <string name="save_successful">Your item has been saved.</string>
+    <string name="update_failed">Your item was not updated.</string>
+    <string name="update_success">Your item was updated.</string>
+    <string name="discard_changes">Discard your changes?</string>
+    <string name="discard">Discard</string>
+    <string name="no_continue">Continue Editing</string>
+
+    <!--item properties-->
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="item_price_currency">USD</string>
+    <string name="item_quantity">Quantity</string>
+    <string name="item_supplier">Supplier Name</string>
+    <string name="supplier_number">Supplier Phone Number</string>
+
+    <string name="save_action">Save</string>
+
+    <!--suppliers-->
+    <string name="supplier_amazon">Amazon</string>
+    <string name="supplier_costco">Costco</string>
+    <string name="supplier_target">Target</string>
+    <string name="supplier_traderjoes">Trader Joes</string>
+    <string name="supplier_unknown">Unknown</string>
+
+    <!--activity view-->
+    <string name="item_view">Item Details</string>
+    <string name="delete_msg">Delete this Product?</string>
+    <string name="quantity_changed">Quantity was changed</string>
+    <string name="no_quantity">Product is out of stock</string>
+
+</resources>
